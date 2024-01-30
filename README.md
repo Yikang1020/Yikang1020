@@ -20,7 +20,7 @@
 ---
 
 
-- 🌱 I’m currently learning to use EEG analysis and computational model to solve my research.
+- 🌱 I’m currently using EEG analysis and computational model to solve my research.
 
 
 ---
