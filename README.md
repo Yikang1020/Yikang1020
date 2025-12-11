@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Yikang Liu, master student at School of Psychology, Nanjing Normal University. Now, I’m a memeber of Meta Self Lab.
+- 👋 Hi, I’m Yikang Liu, RA at Guangdong Institute of Intelligence Science and Technology. Now, I’m a memeber of Laboratory of Cognitive Neural Representation and Regulation.
 
 ---
 
 - 🧑‍💻 My main research are:
 
-  - the ERP marker of evidence accumulation in decision-making, Centro-Parietal Positivity(CPP);
-
-  - the impact of precistion on perception and perceptual decision-making.
+  - How do we construct internal models of abstract task?
+ 
+  - How does our brain’s offline activity (like mental replay) help consolidate and reorganize these maps?
+ 
+  - How do we then use these maps to make flexible decisions?
 
 ---
 
@@ -20,7 +22,7 @@
 ---
 
 
-- 🌱 I’m currently using EEG analysis and computational model to solve my research.
+- 🌱 I’m currently using neuroimaging(EEG and fMRI), machine learning and computational model to solve my research.
 
 
 ---
