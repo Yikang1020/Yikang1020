@@ -14,7 +14,7 @@
 
 - 👀 I am Teaching Assistant of two course:
 
-  - Psychological Statistics for undergraduates (2022.2 - Now);
+  - Psychological Statistics for undergraduates (2022.2 - 2024.6);
 
   - Advanced Psychological Statistics for undergraduates (2022.9 - 2023.1).
   
