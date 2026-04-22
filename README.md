@@ -22,7 +22,7 @@
 ---
 
 
-- 🌱 I’m currently using neuroimaging(EEG and fMRI), machine learning and computational model to solve my research.
+- 🌱 I’m currently using neuroimaging (EEG and fMRI), machine learning and computational model to solve my research.
 
 
 ---
