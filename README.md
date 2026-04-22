@@ -27,6 +27,8 @@
 
 ---
 
+- I'm also a member of REPEAT network of *psychological science*;
+
 - To contact me, please email me at **liuyk11@126.com/liuyk1020@gmail.com**
 
 
